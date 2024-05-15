@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  margin: 88px 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+button {
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 2px solid;
+  background: blue;
+  color: #fff;
+}
+.error {
+  color: red;
+}
