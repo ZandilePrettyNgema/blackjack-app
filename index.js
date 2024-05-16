@@ -1,6 +1,8 @@
-let message = "something went wrong, please try again";
-let errorEl = document.getElementById("error");
+let firstCard = 5;
+let secondCard = 7;
+let sum = firstCard + secondCard;
+console.log(sum);
 
-function errorMessage() {
-  errorEl.innerHTML = message;
-}
+let age = 22;
+
+
