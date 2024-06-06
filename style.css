@@ -3,14 +3,24 @@ body {
   margin: 88px 30px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+    background: rgb(5, 55, 5);
 }
-button {
-  padding: 10px 12px;
-  border-radius: 10px;
-  border: 2px solid;
-  background: blue;
+h1{
+  color: #daa520;
+}
+p{
   color: #fff;
+  font-size: 18px;
+  font-weight: 700;
 }
-.error {
-  color: red;
+button{
+  background: #daa520;
+  border: none;
+  padding: 8px 30px;
+  border-radius: 4px;
+  color: rgb(5, 55, 5);
+  font-weight: bold;
+  font-size: 16px;
+  display: block;
+  margin: 20px auto;
 }
